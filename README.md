@@ -124,7 +124,7 @@ def generate_word_cloud(data, title):
 ## vader_lexicon
 The vader_lexicon is a sentiment analysis tool used for evaluating the sentiment or polarity of text data. It is based on the Valence Aware Dictionary and Sentiment Reasoner (VADER) sentiment analysis tool, which is specifically designed to analyze sentiment in text data, including social media text, product reviews, and more.
 
-#Generate word clouds for positive and negative sentiment reviews
+Generate word clouds for positive and negative sentiment reviews
 
 positive_reviews = ' '.join(df[df['sentiment'] == 'positive']['cleaned_reviews'])
 
