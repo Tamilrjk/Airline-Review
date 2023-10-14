@@ -19,4 +19,8 @@ Exploratory Data Analysis (EDA)
 List the prerequisites and dependencies for your project. For example:
 
 Python 3.7 or higher
-Libraries: requests, beautifulsoup4, pandas
+Libraries: requests, beautifulsoup4, pandas,numpy,malplotlib,nltk,SentimentIntensityAnalyzer,Labelencoder
+
+## Installation
+Provide instructions for installing any necessary dependencies. You can use code blocks to show how to install the required libraries using pip:
+pip install requests beautifulsoup4 pandas...etc
