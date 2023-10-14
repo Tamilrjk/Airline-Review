@@ -3,7 +3,9 @@ The airline review project aims to analyze and extract from a dataset consisting
 
 ## Table of Contents
 Requirements
+
 Installation
+
 Usage
 Scraping Airline Reviews
 Data Processing
