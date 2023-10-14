@@ -7,8 +7,15 @@ Requirements
 Installation
 
 Usage
+
 Scraping Airline Reviews
+
 Data Processing
-Examples
-Contributing
-License
+
+Exploratory Data Analysis (EDA)
+
+##Requirements
+List the prerequisites and dependencies for your project. For example:
+
+Python 3.7 or higher
+Libraries: requests, beautifulsoup4, pandas
